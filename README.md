@@ -1,6 +1,8 @@
 skeletor Install Profile
 ===========================
 
+*Modified by Luis
+
 <<<<<<< HEAD
 [![Build Status](https://travis-ci.org/myplanetdigital/drupal-skeletor.png)](https://travis-ci.org/myplanetdigital/drupal-skeletor)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/myplanet-skeletor)](https://saucelabs.com/u/myplanet-skeletor)
