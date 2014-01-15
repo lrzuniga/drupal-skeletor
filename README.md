@@ -1,6 +1,8 @@
 skeletor Install Profile
 ===========================
 
+*Modified by Luis.
+
 <<<<<<< HEAD
 [![Build Status](https://travis-ci.org/myplanetdigital/drupal-skeletor.png)](https://travis-ci.org/myplanetdigital/drupal-skeletor)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/myplanet-skeletor)](https://saucelabs.com/u/myplanet-skeletor)
@@ -22,6 +24,11 @@ http://drupal.org/node/1476014
 The rationale being that when we layout our projects according to these
 guidelines, we don't need to document as much, and we will also know how
 to package our own distribution for drupal.org in the future.
+
+
+
+#Pong
+
 
 Here's the additional suggested folder structure for the install profile:
 
