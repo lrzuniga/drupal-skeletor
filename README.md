@@ -25,6 +25,11 @@ The rationale being that when we layout our projects according to these
 guidelines, we don't need to document as much, and we will also know how
 to package our own distribution for drupal.org in the future.
 
+
+
+#Pong
+
+
 Here's the additional suggested folder structure for the install profile:
 
     +-modules/
