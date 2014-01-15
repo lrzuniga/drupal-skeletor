@@ -82,3 +82,4 @@ members.
 snippet as `tmp/snippets/settings.php/mysnippetname.settings.php`. These
 snippets will be appended in alphabetical order during the build script.
 >>>>>>> upstream/master
+Brendon changed this line.
