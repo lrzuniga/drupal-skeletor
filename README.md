@@ -1,9 +1,12 @@
 skeletor Install Profile
 ===========================
 
+<<<<<<< HEAD
 [![Build Status](https://travis-ci.org/myplanetdigital/drupal-skeletor.png)](https://travis-ci.org/myplanetdigital/drupal-skeletor)
 [![Selenium Test Status](https://saucelabs.com/buildstatus/myplanet-skeletor)](https://saucelabs.com/u/myplanet-skeletor)
 
+=======
+>>>>>>> upstream/master
 This is the D7 install profile for the skeletor project, to set up an
 appropriate layout for a build-based development strategy, striving
 toward continuous delivery and great good.
@@ -40,6 +43,7 @@ Here's the additional suggested folder structure for the install profile:
       | +-settings.php/
       +-tests/
 
+<<<<<<< HEAD
 *The `tmp/` directory is intended to be removed before pushing to Acquia.*
 
 * If you'd like any code to be appended to `settings.php`, simply add a
@@ -73,3 +77,8 @@ members.
     bundle install
     # View all tasks. See Inception README for details.
     bundle exec rake -D
+=======
+* If you'd like any code to be appended to `settings.php`, simply add a
+snippet as `tmp/snippets/settings.php/mysnippetname.settings.php`. These
+snippets will be appended in alphabetical order during the build script.
+>>>>>>> upstream/master

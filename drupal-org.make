@@ -11,6 +11,12 @@ core = 7.x
 ; MODULES
 ; Ascending alphabetical order.
 
+<<<<<<< HEAD
+=======
+projects[admin_menu][subdir] = contrib
+projects[admin_menu][version] = 3.0-rc4
+
+>>>>>>> upstream/master
 ; THEMES
 
 ; LIBRARIES
