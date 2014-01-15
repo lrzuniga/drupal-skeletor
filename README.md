@@ -1,7 +1,7 @@
 skeletor Install Profile
 ===========================
 
-*Modified by Luis
+*Modified by Luis 
 
 <<<<<<< HEAD
 [![Build Status](https://travis-ci.org/myplanetdigital/drupal-skeletor.png)](https://travis-ci.org/myplanetdigital/drupal-skeletor)
